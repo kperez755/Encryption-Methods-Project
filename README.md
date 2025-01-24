@@ -20,8 +20,8 @@ The goal of this project is to:
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python (e.g., Flask, Django) or Node.js
 - **Encryption Libraries**: 
-  - Python: `cryptography`, `PyCrypto` or similar
-  - JavaScript: `crypto` or third-party libraries like `crypto-js`
+  - Python: `cryptography`, `PyCrypto`
+  - JavaScript: `crypto-js`
 - **Version Control**: Git and GitHub
 
 ## Usage
